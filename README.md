@@ -1,4 +1,4 @@
-## Hi there :books: :computer:
+## Hi there :wink:
 Eu sou o Alexandre Bernardes, estou iniciando programação em Fronte-End, atualmente estou aprendendo e criando projetos com :
 <br>
 <br>
@@ -8,7 +8,7 @@ Eu sou o Alexandre Bernardes, estou iniciando programação em Fronte-End, atual
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo" />
 - [![Bernardes Stats](https://github-readme-stats.vercel.app/api?username=Bernardees)](https://github.com/anuraghazra/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardees)](https://github.com/anuraghazra/github-readme-stats)
-- ![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
   Sera uma satisfação poder compartilhar meus recém projetos com os DEVs, estou muito grato por poder ingressar nesse mundo fantástico da programação e desenvolvimento web,
   assim como, todo o ecossitema de tecnológias que o enclobam. :neckbeard:
